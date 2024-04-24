@@ -20,12 +20,12 @@ module.exports = {
     const name = userData.name;
 
     const ment = [{ id: id, tag: name }];
-    const a = "Anya";
-    const b = " + ";
-    const c = "MR PERFECT";
-const e = "Male";
-    const d = "m.me/100087591006635";
-const f = "rx_editz";
+    const a = "꧁𝑸𝒖𝒆𝒆𝒏 𝑩𝑶𝑻2꧂";
+    const b = " . ";
+    const c = "Priyanshi Kaur";
+const e = "Female";
+    const d = "m.me/61556609578687";
+const f = "PriyanshiKaurJi";
 const g = "Single life rocks💀";
 
     message.reply({ 
