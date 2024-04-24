@@ -28,7 +28,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "꧁𝑸𝒖𝒆𝒆𝒏 𝑩𝑶𝑻2꧂",
-  "prefix": "+",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
