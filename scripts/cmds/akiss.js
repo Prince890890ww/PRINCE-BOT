@@ -22,8 +22,8 @@ module.exports = {
       body: gifUrl,
       attachment: await global.utils.getStreamFromURL(gifUrl),
       mentions: [{
-        tag: "Yukinori ʚĭɞ",
-        id: "100092377898995"
+        tag: "Priyanshi Kaur",
+        id: "61556609578687"
       }]
     }
     message.reply(form);
