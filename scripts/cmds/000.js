@@ -40,11 +40,11 @@ module.exports = {
       const answer = response.data.answer;
 
 
-    await message.reply({ body: `𝑴𝑹 𝑷𝑬𝑹𝑭𝑬𝑪𝑻 𝑨𝑰
+    await message.reply({ body: `𝑷𝑹𝑰𝒀𝑨𝑵𝑺𝑯𝑰 𝑲𝑨𝑼𝑹'𝑺 𝑨𝑰
 ______________________________  
 ${answer}
 𝑩𝒐𝒕 𝒐𝒘𝒏𝒆𝒓 
-m.me/100087591006635`,
+m.me/61556609578687`,
 });
 
    } catch (error) {
