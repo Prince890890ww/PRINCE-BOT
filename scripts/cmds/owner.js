@@ -16,12 +16,12 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: 'Bishwo Bastola',
-      gender: 'Male',
-      age: '18',
-      height: '5.10',
-      facebookLink: 'https://www.facebook.com/m.zenesha',
-      nick: 'Mr perfect'
+      name: 'Priyanshi Kaur',
+      gender: 'Female',
+      age: '24',
+      height: '6.04',
+      facebookLink: 'https://www.facebook.com/PriyanshiKaurJi',
+      nick: 'Pihu'
     };
 
     const bold = 'https://i.imgur.com/DDO686J.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
