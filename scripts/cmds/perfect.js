@@ -11,9 +11,9 @@ module.exports = {
  }, 
  onStart: async function(){}, 
  onChat: async function({ event, message, getLang }) {
- if (event.body && event.body.toLowerCase() === "perfect") {
+ if (event.body && event.body.toLowerCase() === "Priyanshi") {
  return message.reply({
- body: "Dont Call Mr perfect If he Aint Here !!",
+ body: "Dont Call Miss Priyanshi If he Aint Here !!",
  attachment: await global.utils.getStreamFromURL("https://i.imgur.com/PLuem6i.jpeg")
  });
  }
