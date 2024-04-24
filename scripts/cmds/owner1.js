@@ -27,12 +27,12 @@ module.exports = {
         await api.sendMessage(loadingMessage, event.threadID);
 
         const ownerInfo = {
-          name: '𝑴𝑹 𝑷𝑬𝑹𝑭𝑬𝑪𝑻',
-          gender: '𝘽𝙤𝙮',
-          hobby: '𝙅𝙪𝙨𝙩 𝙖 𝙃𝙖𝙥𝙥𝙮 𝙡𝙞𝙛𝙚 ',
+          name: '𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡𝐢 𝐊𝐚𝐮𝐫',
+          gender: '𝐆𝐢𝐫𝐥',
+          hobby: ' 𝐂𝐨𝐝𝐢𝐧𝐠 𝐀𝐧𝐝 𝐆𝐮𝐧 𝐒𝐡𝐨𝐨𝐭𝐢𝐧𝐠 ',
           relationship: '𝙎𝙞𝙣𝙜𝙡𝙚 𝙔𝙚𝙩!',
-          facebookLink: ' ',
-          bio: '𝙏𝙤 𝙢𝙖𝙠𝙚 𝙛𝙪𝙣'
+          facebookLink: ' m.facebook.com/PriyanshiKaurJi ',
+          bio: '𝐼𝑛𝑑𝑖𝑎𝑛 𝑀𝑖𝑛𝑖𝑠𝑡𝑟𝑦 𝑂𝑓 𝐷𝑖𝑓𝑓𝑒𝑛𝑐𝑒 ♕︎'
         };
 
         const videoUrl = 
