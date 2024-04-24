@@ -15,7 +15,7 @@ module.exports = {
  if (event.body && event.body.toLowerCase() === "prefix") {
  return message.reply({
  body: `
-Yo, my prefix is [  +  ]\n
+Yo, my prefix is [  .  ]\n
 `,
   attachment: await global.utils.getStreamFromURL("https://i.imgur.com/YMrKLFn.gif")
  });
