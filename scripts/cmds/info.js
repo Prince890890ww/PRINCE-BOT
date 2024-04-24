@@ -15,14 +15,14 @@ module.exports = {
     envConfig: {}
   },
   onStart: async function ({ message }) {
-    const botName = "Mr perfect";
-    const botPrefix = "+";
-    const authorName = "Mr perfect";
-    const ownAge = "18";
+    const botName = "Priyanshi Kaur";
+    const botPrefix = ".";
+    const authorName = "Priyanshi";
+    const ownAge = "24";
     const teamName = "Github team";
-    const authorFB = "https://www.facebook.com/m.zenesha";
-    const authorInsta = "https://www.instagram.com/devildeacon?igsh=Z2R2dXZkYWNjanQw";
-    const tikTok = "https://www.tiktok.com/@rx______editz06?_t=8kK7a7zlktG&_r=1";
+    const authorFB = "https://www.facebook.com/PriyanshiKaurJi";
+    const authorInsta = "https://www.instagram.com/PriyanshiKaurJi";
+    const tikTok = "Sorry TikTok Banned In India";
     const urls = JSON.parse(fs.readFileSync('perfect.json'));
     const link = urls[Math.floor(Math.random() * urls.length)];
     const now = moment().tz('Asia/Kathmandu');
