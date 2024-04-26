@@ -19,16 +19,16 @@
     ]
   },
   "adminBot": [
-    "61556609578687",
-    "100045823417357",
-    "61554146440002"
+    "100075799987253",
+    "",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "꧁𝑸𝒖𝒆𝒆𝒏 𝑩𝑶𝑻2꧂",
+  "nickNameBot": "BOOT",
   "prefix": ".",
   "database": {
     "type": "sqlite",
